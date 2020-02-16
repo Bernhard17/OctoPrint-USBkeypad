@@ -1,3 +1,3 @@
 # OctoPrint-USBkeypad
 
-## Work in Progress! Use with care ##
+# Work in Progress! Please Wait #
